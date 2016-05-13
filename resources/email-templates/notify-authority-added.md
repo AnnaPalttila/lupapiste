@@ -1,4 +1,4 @@
-# Hei,
+# Moi!
 
 K&auml;ytt&auml;j&auml;tilisi on liitetty organisaation **{{org-fi}}** viranomaisk&auml;ytt&auml;j&auml;ksi Lupapiste-palvelussa.
 
@@ -8,7 +8,7 @@ Ongelmatilanteissa ota yhteytt&auml; tuki@lupapiste.fi.
 
 ---
 
-# Hej,
+# Hej!
 
 Ditt anv&auml;ndarkonto har kopplats till organisationen **{{org-fi}}**s myndighetsanv&auml;ndare i Lupapiste-tj&auml;nsten.
 
